@@ -1,0 +1,2 @@
+# MULTIMEDIJA-ShortCut
+VIdeo edititng
